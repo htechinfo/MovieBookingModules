@@ -8,8 +8,10 @@ MovieBookingService - Takes care for
  - Creating a reservation and booking
  - Completing a booking (not actual :) )
  - Authorization using JWT token generated from User Service
+
 User Service
  - Takes care for authentication and generating JWT token
+
 Service Registory
  - Is a Eureka Service registery for User and Movie Service.
 
