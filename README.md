@@ -1,7 +1,7 @@
 # MovieBookingModules
 Movie Booking Service Modules
 
-MovieBookingService - Takes care for
+MovieBookingService (http://<IP>/8081) - Takes care for
  - Adding/Updating/Deleting Theatre
  - Adding/Updating/Deleting Movie
  - Adding/Updating/Deleting Movie Show
@@ -9,7 +9,7 @@ MovieBookingService - Takes care for
  - Completing a booking (not actual :) )
  - Authorization using JWT token generated from User Service
 
-User Service
+User Service (http://<IP>/8082)
  - Takes care for authentication and generating JWT token
 
 Service Registory
