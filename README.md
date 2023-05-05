@@ -18,5 +18,3 @@ Service Registory
 Note: 
   - This is not a fully working movie booking service, but a small POC for same.
   - Both of service User and Movie booking is having Swagger documentation (Open API) for easy idea of APIs available and it's request and response.
-
-Added a test line
